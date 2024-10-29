@@ -34,6 +34,9 @@ lo cual indica que la empresa se ha recuperado bien y va encaminado al crecimien
 
 ![2024-10-28 (2)](https://github.com/user-attachments/assets/e400ff92-c562-4329-b12b-1d955ba1d3ca)
 
+Así mismo en la página 2 se puede ver un desgloce mas detallado filtrando y seleccionando los datos
+del customer ID que se requiera analizar detalladamente.
+
 ## Power BI 📊
 [Power BI File](https://github.com/kclnavarro/Caso-Practico---Power-BI-/blob/main/Ventas%20-%20Caso%20Practico.pbix)
 
