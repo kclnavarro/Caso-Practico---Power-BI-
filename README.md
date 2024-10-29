@@ -13,8 +13,11 @@ Crear un dashboard de ventas en Power BI Desktop utilizando el archivo contiene
 datos de venta donde algunas columnas
 
 clave son:
+
 ● Category y Sub-category- Categoría y subcategoría del producto.
+
 ● Country/Region y Estado - País y Estado de venta.
+
 ● Segment - Segmento del cliente
 
 ## Resultado del Análisis ✔
